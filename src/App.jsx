@@ -9,6 +9,7 @@ import Hero from "./components/Hero";
 import Features from "./components/Features";
 import About from "./components/About.";
 import Footer from "./components/Footer";
+import Offers from "./components/offers";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Features />
       <About />
       <Footer />
+      <Offers />
     </div>
   );
 }
